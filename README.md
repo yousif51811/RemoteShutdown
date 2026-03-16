@@ -1,5 +1,7 @@
 # RemoteShutdown
 A Simple windows service to shutdown a computer
+> [!CAUTION]
+> Only ever use this on your **own machine!**
 
 ## Building
 1. Make sure you have the .NET sdk installed
@@ -33,7 +35,5 @@ sc stop RemoteShutdown
 sc delete RemoteShutdown
 ```
 
-> [!CAUTION]
-> Only ever use this on your **own machine!**
 ------------------
 Made with ❤️ by yousif51811
