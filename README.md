@@ -3,6 +3,8 @@ A Simple windows service to shutdown a computer
 > [!CAUTION]
 > Only ever use this on your **own machine!**
 
+> [!NOTE]
+> This Service is best paired with the [RemoteShutdown App](https://github.com/yousif51811/RemoteShutdown-App)
 ## Building
 #### 1. Make sure you have the .NET sdk installed
 #### 2. Run the following command to build
